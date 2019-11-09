@@ -13,3 +13,9 @@
 **Today's Progress**: Merged the pull request.
 
 **Thoughts** I need to spend some time exploring state management in React. It might not be important for the next feature I am about to implement, however I kept postponing it for way too long. I will take a look at Redux or Context.Provider. I hope it would not put me off the track. I am counting with skipping the coding day tomorrow.
+
+### Day 3: November 9, Saturday
+
+**Today's Progress**: I broke the rules a bit, only did tutorials today.
+
+
